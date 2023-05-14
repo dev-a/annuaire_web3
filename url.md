@@ -11,4 +11,9 @@ https://chrome.google.com/webstore/detail/rabby-wallet/acmacodkjbdgmoleebolmdjon
 https://swap.defillama.com/
 
 #bridge
+
 https://bridge.blockscape.network/
+
+#divers
+
+https://chainlist.org/
