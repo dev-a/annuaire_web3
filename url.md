@@ -6,3 +6,9 @@ https://chrome.google.com/webstore/detail/rabby-wallet/acmacodkjbdgmoleebolmdjon
 
 
 
+#Swap
+
+https://swap.defillama.com/
+
+#bridge
+https://bridge.blockscape.network/
