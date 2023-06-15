@@ -17,3 +17,5 @@ https://bridge.blockscape.network/
 #divers
 
 https://chainlist.org/
+
+https://www.useweb3.xyz/gas
